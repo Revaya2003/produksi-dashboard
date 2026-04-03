@@ -14,7 +14,7 @@ with open("style.css") as f:
 st.markdown("""
 <div class="header-container">
     <h1 class="title">Production Planning Dashboard</h1>
-    <p class="subtitle">Decision Support System</p>
+    <p class="subtitle">Decision Support System by Revaya Rizqia Pasya</p>
 </div>
 """, unsafe_allow_html=True)
 
